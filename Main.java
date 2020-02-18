@@ -23,7 +23,7 @@ class Main {
 		 System.out.println("Aprovado, nota final: "+ n5);
 	 }else {
 		 if(n5 > 4) {
-			 System.out.println("Pf: ");
+			 System.out.println("PF: ");
 			 double pf = sc.nextDouble();
 			
 			 double nf = (n5+pf)/2;
